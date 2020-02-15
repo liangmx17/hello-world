@@ -10,4 +10,4 @@ I followed the construction GitHub showed me and I wrote  this file.
 	* git commit : git commit -m 'message'
 
 
-	*git push : git push origin master 
+	* git push : git push origin master 
